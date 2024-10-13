@@ -1,0 +1,31 @@
+@import "~antd/dist/antd.css";
+
+.site-layout-backgroud {
+  background-color: #fff;
+}
+
+.site-header-backgroud {
+  background-color: #cbd0c2;
+  display: flex;
+  justify-content: space-between;
+  height: 120px;
+}
+
+.site-menu-backgroud {
+  background-color: #cbd0c2;
+}
+
+.site-name-font {
+  font-family: "Times New Roman", Times, serif;
+  font-size: 32px;
+  font-weight: "600";
+  color: #3c5c20;
+  margin-top: 25px;
+}
+
+.equal-width-tabs {
+  margin-top: 50px;
+  min-width: 100px;
+  font-size: 26px;
+  tab-size: 40px;
+}
